@@ -2,26 +2,31 @@
 
 SureEdge is a web-based arbitrage calculator developed as a college project using HTML, CSS, and JavaScript.
 
-The application analyzes betting odds and calculates whether an arbitrage opportunity exists. It also calculates the recommended stake for each bet, total payout, profit/loss, and return on investment (ROI).
+It allows users to enter betting odds and a total stake to determine whether an arbitrage opportunity exists. The calculator also calculates the stake for each bet, total payout, profit/loss, and ROI.
 
-## Features
+## 🚀 Live Demo
+
+[Open SureEdge](https://sureedge-wheat.vercel.app/)
+
+## ✨ Features
 
 - Calculate arbitrage opportunities
 - Support for multiple bets
-- Dynamically add additional bets using the "More Bets" button
-- Calculate recommended stake for each bet
+- Add additional bets dynamically
+- Calculate stake for each bet
 - Calculate total payout
 - Calculate profit/loss
 - Calculate ROI
-- Display arbitrage, break-even, or no-arbitrage status
+- Display arbitrage status
 - Input validation
 - Reset calculator
-- Responsive design for mobile devices
+- Responsive design
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Git & GitHub
+- Git
+- GitHub
 - Vercel
