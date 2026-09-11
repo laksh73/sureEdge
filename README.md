@@ -1,6 +1,7 @@
 # SureEdge - Smart Arbitrage Calculator
 
-SureEdge is a web-based arbitrage calculator developed as a college project using HTML, CSS, and JavaScript.
+> SureEdge is a web-based arbitrage calculator developed using HTML, CSS, and JavaScript.
+
 
 It allows users to enter betting odds and a total stake to determine whether an arbitrage opportunity exists. The calculator also calculates the stake for each bet, total payout, profit/loss, and ROI.
 
